@@ -1,0 +1,1 @@
+SpeechRecognition deep-translator gTTS pygame pyttsx3 pyaudio
