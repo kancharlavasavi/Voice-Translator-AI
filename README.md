@@ -89,6 +89,3 @@ python translator.py
 │── README.md
 │── requirements.txt
 
-
-
-Just tell me!
