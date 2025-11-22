@@ -2,16 +2,19 @@
 A smart voice translator built using SpeechRecognition, GoogleTranslator, gTTS, and Pygame to convert spoken words into translated speech.
 
 
-
 Smart Voice Translator is an AI-powered speech translation tool built using:
+
 SpeechRecognition – Converts speech to text
+
 GoogleTranslator (deep-translator) – Translates text
+
 gTTS (Google Text-to-Speech) – Converts translated text to audio
+
 Pygame – Plays the generated audio
+
 pyttsx3 – Optional offline text-to-speech
 
-This application allows users to **speak in one language**, automatically **translate it**, and **hear it spoken back** in another language.
-
+This application allows users to speak in one language, automatically translate it, and hear it spoken back in another language.
 ---
 
 ## 🎯 Features
